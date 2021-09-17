@@ -1,7 +1,3 @@
-41.Si dos ciudaddes están a 80 km una de otra
-y usted conduce a 90km/h ¿Cuántos minutos
-necesitará para ir de una ciudad a otra?
-
 #include <iostream>
 
 /*  
