@@ -16,11 +16,8 @@ dedicarme a trabajar e involucrarme en el desarrollo de videojuegos 👾
 
 |       | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
 |-------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 11:00 |   ARQUITECTURA DE COMPUTADORAS  |   ARQUITECTURA DE COMPUTADORAS  |   ARQUITECTURA DE COMPUTADORAS  |   ARQUITECTURA DE COMPUTADORAS  |   ARQUITECTURA DE COMPUTADORAS  |
-| 12:00 |                                 |                                 |                                 |                                 |                                 |
-| 13:00 |                                 |                                 |                                 |                                 |                                 |
-| 14:00 |      LENGUAJES DE INTERFAZ      |      LENGUAJES DE INTERFAZ      |      LENGUAJES DE INTERFAZ      |      LENGUAJES DE INTERFAZ      |                                 |
-| 15:00 |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |
-| 16:00 |           GRAFICACION           |           GRAFICACION           |           GRAFICACION           |           GRAFICACION           |                                 |
-| 17:00 |      DESARROLLO SUSTENTABLE     |      DESARROLLO SUSTENTABLE     |      DESARROLLO SUSTENTABLE     |      DESARROLLO SUSTENTABLE     |      DESARROLLO SUSTENTABLE     |
-| 18:00 | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS |
+| 14:00 |       PATRONES DE DISEÑO        |       PATRONES DE DISEÑO        |       PATRONES DE DISEÑO        |       PATRONES DE DISEÑO        |       PATRONES DE DISEÑO        |
+| 15:00 |                                 |                                 |                                 |                                 |                                 |
+| 16:00 |   CONMUTACIÓN Y ENRUTAMIENTO    |   CONMUTACIÓN Y ENRUTAMIENTO    |   CONMUTACIÓN Y ENRUTAMIENTO    |   CONMUTACIÓN Y ENRUTAMIENTO    |   CONMUTACIÓN Y ENRUTAMIENTO    |
+| 17:00 |      ANÁLISIS AVZDO DE DdS      |      ANÁLISIS AVZDO DE DdS      |      ANÁLISIS AVZDO DE DdS      |      ANÁLISIS AVZDO DE DdS      |      ANÁLISIS AVZDO DE DdS      |
+| 18:00 |                                 |                                 |                                 |                                 |                                 |
