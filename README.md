@@ -146,5 +146,5 @@ Don't hesitate to connect with me! You can find me at:
 
 * Linkedin: https://www.linkedin.com/in/gilberto-espericueta-lopez-76090532a/
 
-* [⬆](#header)
+  [⬆ Up](#header)
 
