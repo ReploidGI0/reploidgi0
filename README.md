@@ -5,7 +5,12 @@
 
 ---
 
-### 💻 Tecnologías y Habilidades
+- 📓 [Español](#inicio)
+- 📓 [English](#start)
+
+---
+
+### <a id="inicio" /> 💻 Tecnologías y Habilidades
 
 A lo largo de mi formación académica, he trabajado con diversas tecnologías, en las que se incluyen:
 
@@ -72,4 +77,6 @@ Aunque soy serio y motivado en el trabajo, también disfruto de diversos hobbies
 * Linkedin: https://www.linkedin.com/in/gilberto-espericueta-lopez-76090532a/
   
 ---
+
+### <a id="inicio" /> 💻 Tecnologías y Habilidades
 
