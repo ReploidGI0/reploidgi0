@@ -3,8 +3,8 @@
   <p>Egresado del Instituto Tecnológico de Tijuana (ITT) como Ingeniero en Sistemas Computacionales.</p>
   <p>Graduated from Instituto Tecnologico de Tijuana (ITT) with a degree in Computer Systems Engineering.</p>
 
-Lee un poco sobre mi en los dando clic en el idioma deseado
-Read a little about me by clicking on the desired language.
+*Lee un poco sobre mi en los dando clic en el idioma deseado
+*Read a little about me by clicking on the desired language.
 
 - 📓 [Español](#inicio)
 - 📓 [English](#start)
