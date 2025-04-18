@@ -1,5 +1,5 @@
 
-  <h1>¡Hola! Soy Gilberto Espericueta 👋</h1>
+  <h1 id="header">¡Hola! Soy Gilberto Espericueta 👋</h1>
   <p>Egresado del Instituto Tecnológico de Tijuana (ITT) como Ingeniero en Sistemas Computacionales.</p>
   <p>Graduated from Instituto Tecnologico de Tijuana (ITT) with a degree in Computer Systems Engineering.</p>
 
@@ -125,7 +125,7 @@ In addition to programming languages, I have experience using tools and platform
 
 ### 💼 What am I currently working on?
 
-I currently work in the family business, however, I am also learning **TypeScript** and **React**, exploring new ways to apply them in personal and professional projects.
+I currently work informally in the family business, but I'm also learning TypeScript, React and other technologies, exploring new ways to apply them to personal and professional projects.
 
 ---
 
@@ -146,4 +146,5 @@ Don't hesitate to connect with me! You can find me at:
 
 * Linkedin: https://www.linkedin.com/in/gilberto-espericueta-lopez-76090532a/
 
+* ⬆ [](#header)*
 
