@@ -80,7 +80,7 @@ Aunque soy serio y motivado en el trabajo, también disfruto de diversos hobbies
   
 ---
 
-### <a id="start" /> 💻 Tecnologías y Habilidades
+### <a id="start" /> 💻 Technologies and Skills
 
 During my academic formation, I worked with various technologies, including:
 
