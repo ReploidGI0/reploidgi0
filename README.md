@@ -5,9 +5,9 @@
 
 * **Lee un poco sobre mi en los dando clic en el idioma deseado.**
 * **Read a little about me by clicking on the desired language.**
+*📓 [Español](#inicio)
+*📓 [English](#start)
 
-- 📓 [Español](#inicio)
-- 📓 [English](#start)
 
 ---
 
