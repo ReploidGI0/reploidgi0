@@ -1,6 +1,9 @@
-![](https://images.cooltext.com/5548434.png)
-<br>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="70" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/tu_nombre_de_usuario?size=200" alt="Tu Avatar" width="150" height="150" style="border-radius: 50%;">
+  <br>
+  <h1>¡Hola! Soy Gilberto Espericueta 👋</h1>
+  <p>Egresado del Instituto Tecnológico de Tijuana como Ingeniero en Sistemas Computacionales.</p>
+</div>
 
 ---
 
