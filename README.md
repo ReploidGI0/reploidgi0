@@ -23,13 +23,13 @@ A lo largo de mi formación académica, he trabajado con diversas tecnologías, 
     * <ins>En formación:</ins> MongoDB
 * **Control de Versiones:** Git
 * **Desarrollo de Videojuegos:** Unity
-* **Gestión de Proyectos:** Jira, Workday
+* **Gestión de Proyectos:** Jira
 
 ---
 
 ### 🌱 Intereses y Objetivos
 
-Me apasiona la **programación web** y el **desarrollo de videojuegos**. Sin embargo, estoy abierto a aprender otras áreas fascinantes como el **desarrollo móvil** y la **Inteligencia Artificial**.
+Me gusta la **programación web** y el **desarrollo de videojuegos**. Sin embargo, estoy abierto a aprender otras áreas como el **desarrollo móvil** y la **Inteligencia Artificial**.
 
 ---
 
