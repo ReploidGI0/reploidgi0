@@ -95,7 +95,7 @@ During my academic formation, I worked with various technologies, including:
     * CSS
 * **Databases:**  
     * SQL y MySQL
-    * <ins>En formación:</ins> MongoDB
+    * <ins>Learning:</ins> MongoDB
 * **Version Control:** Git
 * **Game Development:** Unity
 * **Project Management:** Jira
