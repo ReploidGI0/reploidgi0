@@ -18,7 +18,8 @@ A lo largo de mi formación académica, he trabajado con diversas tecnologías, 
 * **Lenguajes de Marcado/Estilo:**
     * HTML
     * CSS
-* **Bases de Datos:** SQL y MySQL
+* **Bases de Datos:**  
+    * SQL y MySQL
     * <ins>En formación:</ins> MongoDB
 * **Control de Versiones:** Git
 * **Desarrollo de Videojuegos:** Unity
