@@ -1,6 +1,7 @@
 
   <h1>¡Hola! Soy Gilberto Espericueta 👋</h1>
-  <p>Egresado del Instituto Tecnológico de Tijuana como Ingeniero en Sistemas Computacionales.</p>
+  <p>Egresado del Instituto Tecnológico de Tijuana (ITT) como Ingeniero en Sistemas Computacionales.</p>
+  <p>Graduated from Instituto Tecnologico de Tijuana (ITT) with a degree in Computer Systems Engineering.</p>
 
 
 ---
@@ -78,5 +79,70 @@ Aunque soy serio y motivado en el trabajo, también disfruto de diversos hobbies
   
 ---
 
-### <a id="inicio" /> 💻 Tecnologías y Habilidades
+### <a id="start" /> 💻 Tecnologías y Habilidades
+
+During my academic formation, I worked with various technologies, including:
+
+* **Programming Languages:**
+    * C#
+    * Java
+    * JavaScript
+    * <ins>Learning:</ins> TypeScript, React
+    * <ins>Basic knowledge:</ins> PHP
+* **Markup/Style Languages:**
+    * HTML
+    * CSS
+* **Databases:**  
+    * SQL y MySQL
+    * <ins>En formación:</ins> MongoDB
+* **Version Control:** Git
+* **Game Development:** Unity
+* **Project Management:** Jira
+
+---
+
+### 🌱 Interests and Objectives
+
+I enjoy **web programming** and **game development**. However, I'm open to learning other areas such as **mobile development** and **Artificial Intelligence**.
+
+---
+
+### 🚀 Featured Projects
+
+One of the most significant projects I participated was the development of **MetaNautic**, my professional residency project. This is a **virtual reality** platform focused on dynamic learning of aeronautical concepts. This experience allowed me to apply my knowledge in an innovative environment and allowed me to graduate (I'm still waiting for my degree).
+
+---
+
+### 🛠️ Tools and Platforms
+
+In addition to programming languages, I have experience using tools and platforms such as:
+
+* **Operating Systems:** Windows, Linux
+* **IDEs:** Visual Studio, VS Code, Apache Netbeans
+  
+---
+
+### 💼 What am I currently working on?
+
+I currently work in the family business, however, I am also learning **TypeScript** and **React**, exploring new ways to apply them in personal and professional projects.
+
+---
+
+### 🎮 Hobbies
+
+Although I am serious and motivated to work, I also enjoy various hobbies, such as:
+* **Playing video games**
+* **Building model kits**
+* **Music**
+* **Learning new languages**
+* **Learning about different areas of science**
+
+---
+
+### 📫 How to contact me?
+
+Don't hesitate to connect with me! You can find me at:
+
+* Linkedin: https://www.linkedin.com/in/gilberto-espericueta-lopez-76090532a/
+
 
